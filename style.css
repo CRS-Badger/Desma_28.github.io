@@ -1,0 +1,59 @@
+html, body {
+  margin: 10;
+  padding: 0;
+  background:black;
+}
+canvas {
+  display: block;
+}
+h1 {
+    color: rgb(255,255,255);
+    font-size: 60px;
+    text-align: center;
+  font-family: sans-serif;
+}
+
+h2 {
+    color: rgb(0,0,0);
+    font-size: 60px;
+    text-align: center;
+  font-family: sans-serif;
+}
+
+/* Styling all <p> elements */
+p {
+    color: #BDC0BB;
+    font-size: 18px;
+    line-height: 1.5;
+  margin:10px;
+  font-family: sans-serif;
+}
+
+p2 {
+    color: white;
+    font-size: 24px;
+    line-height: 1.5;
+  
+  margin:10px;
+  font-family: sans-serif;
+}
+p3 {
+    color: rgb(248,200,248);
+    font-size: 24px;
+    line-height: 1.5;
+  
+  margin:10px;
+  font-family: sans-serif;
+}
+
+a {
+    color: #7CFBB7;
+    font-size: 18px;
+    line-height: 1.5;
+  font-family: sans-serif;
+}
+
+div {
+  background : white;
+  padding : 20px;
+}
